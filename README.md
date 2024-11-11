@@ -1,6 +1,6 @@
 # DIWALI-SALE-DATABASE
 
-##  #PROJECT Overview
+##  PROJECT Overview
 
 ###  Objectives
 This project investgations the root cause of delays in the oil transfer process and proposes a stretegicplans. Through data ananysis of operation
